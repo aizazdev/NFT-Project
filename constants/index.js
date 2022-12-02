@@ -1,12 +1,12 @@
 export const exploreWorlds = [
   {
     id: 'world-1',
-    imgUrl: '/briar1.png',
+    imgUrl: '/briar2.png',
     title: 'Barking Briar ',
   },
   {
     id: 'world-2',
-    imgUrl: '/briar2.png',
+    imgUrl: '/briar1.png',
     title: 'Black Eyes',
   },
   {
