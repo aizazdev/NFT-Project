@@ -29,7 +29,7 @@ export const exploreWorlds = [
 export const startingFeatures = [
   'Find a NFT that you like and mint it',
   'Go to opensea and explore you NFT',
-  'Boom trade you NFT ',
+  'Boom trade your NFT ',
 ];
 
 export const newFeatures = [
